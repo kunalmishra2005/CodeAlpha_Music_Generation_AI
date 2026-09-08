@@ -108,10 +108,14 @@ generated_music.mid
 
 This project was developed as part of the CodeAlpha Artificial Intelligence Internship to demonstrate practical implementation of deep learning for music generation.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Kunal Mishra
+**Kunal Mishra**
 
-Internship Task
+GitHub: https://github.com/kunalmishra2005
 
-CodeAlpha — Task 3: Music Generation with AI
+## 📌 Internship Project
+
+This project was developed as part of my **CodeAlpha AI Internship**.
+
+
