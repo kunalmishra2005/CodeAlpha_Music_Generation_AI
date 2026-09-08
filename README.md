@@ -58,10 +58,16 @@ Streamlit Web Application
 
 ⚙️ Installation
 
-Clone the repository and install the required dependencies:
+1. Clone the repository
 
-git clone  https://github.com/kunalmishra2005/CodeAlpha_Music_Generation_AI.git
+git clone https://github.com/kunalmishra2005/CodeAlpha_Music_Generation_AI.git
+
+2. Open the project folder
+
 cd CodeAlpha_Music_Generation_AI
+
+3. Install the required dependencies
+
 pip install -r requirements.txt
 
 ▶️ Run the Web Application
@@ -106,16 +112,15 @@ generated_music.mid
 
 📌 Project Purpose
 
-This project was developed as part of the CodeAlpha Artificial Intelligence Internship to demonstrate practical implementation of deep learning for music generation.
+This project was developed as part of the CodeAlpha Artificial Intelligence Internship to demonstrate the practical implementation of deep learning for music generation.
 
-## 👨‍💻 Author
+👨‍💻 Author
 
-**Kunal Mishra**
+Kunal Mishra
 
 GitHub: https://github.com/kunalmishra2005
 
-## 📌 Internship Project
+📌 Internship Project
 
-This project was developed as part of my **CodeAlpha AI Internship**.
-
+This project was developed as part of my CodeAlpha AI Internship.
 
